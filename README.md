@@ -1,5 +1,9 @@
 # StereoPi-ROS-depth-map-test
 
+This test was inspired by this issue discussion:
+
+https://github.com/UbiquityRobotics/raspicam_node/issues/41
+
 To run this test you need stereoscopic setup with Raspberry Pi Compute Module.
 
 You can use StereoPi board or Raspberry Pi CM3 devboard with 2 Pi cameras.
