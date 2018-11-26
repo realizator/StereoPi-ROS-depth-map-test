@@ -18,10 +18,10 @@ How to use:
 
 `ROS_NAMESPACE=stereo rosrun stereo_image_proc stereo_ige_proc`
 
-4. To visualize results run 
+4. To visualize results run:
 
 `rosrun image_view stereo_view stereo:=/stereo image:=image_rect_color`
 
-5. For adjusting depth map settings in a real file run:
+5. For adjusting depth map settings in a real time run:
 
 `rosrun rqt_reconfigure rqt_reconfigure` 
