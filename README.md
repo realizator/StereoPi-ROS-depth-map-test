@@ -29,3 +29,5 @@ How to use:
 5. For adjusting depth map settings in a real time run:
 
 `rosrun rqt_reconfigure rqt_reconfigure` 
+
+UPD> To run steps 2, 3, 4 and 5 use new terminal instances. That is after all steps you should have 4 opened terminals with all scripts running.
