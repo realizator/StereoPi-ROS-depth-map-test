@@ -20,7 +20,7 @@ How to use:
 
 3. Run stereoscopic processing:
 
-`ROS_NAMESPACE=stereo rosrun stereo_image_proc stereo_ige_proc`
+`ROS_NAMESPACE=stereo rosrun stereo_image_proc stereo_image_proc`
 
 4. To visualize results run:
 
