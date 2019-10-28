@@ -12,6 +12,8 @@ Tests was performed on Ubiquiti Robotics image https://downloads.ubiquityrobotic
 
 How to use:
 
+0. Enable camera support in Raspbian (raspi-config)
+
 1. Put all files in home folder 
 
 2. Run Wezzoid's publisher:
