@@ -33,3 +33,5 @@ How to use:
 `rosrun rqt_reconfigure rqt_reconfigure` 
 
 UPD> To run steps 2, 3, 4 and 5 use new terminal instances. That is after all steps you should have 4 opened terminals with all scripts running.
+
+UPD 2> Looks like we can have raspicam_node with the native stereoscopic support. https://github.com/UbiquityRobotics/raspicam_node/issues/41#issuecomment-552142081
